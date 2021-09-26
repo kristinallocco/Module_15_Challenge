@@ -22,6 +22,7 @@ This portion of the analysis assessed whether or not the suspension coils met me
 
 ## T-Tests on Suspension Coils
 T-tests to were utilized in order to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. 
+- Lots 1 and 2 coencided with the population mean of 1500, though lot 3 did not. 
 
 
 #### All lots
