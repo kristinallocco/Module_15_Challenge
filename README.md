@@ -38,3 +38,4 @@ T-tests to were utilized in order to determine if all manufacturing lots and eac
 <img width="450" alt="lot3 ttest" src="https://user-images.githubusercontent.com/85713470/134826822-07ef342c-e875-4240-88be-443a950a48dd.png">
 
 ## Hypothesis
+A feature that would be universal amongst consumers when looking for a new car would be miles per gallon. One portion of this anlysis depicted MechaCar's milage, and it would be prudent to see how this measures up against the competitors. Additional t-tests could be preformed on competing brands to determine if MechaCar's fuel efficiency is superior to others. 
